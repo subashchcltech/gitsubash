@@ -1,1 +1,2 @@
-Hello world
+Hello world, i am subash who create this file
+I have staged changes beofer commit
